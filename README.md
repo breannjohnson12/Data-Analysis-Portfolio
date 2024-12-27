@@ -5,5 +5,4 @@ Hi, I'm Breann! I have an analytical background in Marketing and currently, I am
 
 ## Table of Contents
 
-- About ([
-](https://github.com/breannjohnson12/Data-Analysis-Portfolio/blob/main/README.md#about)
+- [About](https://github.com/breannjohnson12/Data-Analysis-Portfolio/blob/main/README.md#about)
